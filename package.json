@@ -1,0 +1,23 @@
+{
+  "name": "node-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdys92/node-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gdys92/node-website/issues"
+  },
+  "homepage": "https://github.com/gdys92/node-website#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
