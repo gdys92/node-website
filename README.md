@@ -1,10 +1,17 @@
-Rolling Stone ticket sales website created with Node.js, Express and W3css.
+# Node Website
 
-To access:
+Rolling Stone ticket sales website created with Node.js y Express.
 
-npm i express
 
-npm start
+## Requirements
+
+• [Node.js](http://nodejs.org/)  
+• [Express.js](https://expressjs.com/es/)
+## To access:
+
+1. `npm i express`
+
+2. `npm start`
 
 
 
